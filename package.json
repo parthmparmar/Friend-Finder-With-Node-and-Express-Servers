@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend Finder App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthmparmar/Friend-Finder-With-Node-and-Express-Servers.git"
+  },
+  "author": "Parth Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthmparmar/Friend-Finder-With-Node-and-Express-Servers/issues"
+  },
+  "homepage": "https://github.com/parthmparmar/Friend-Finder-With-Node-and-Express-Servers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
